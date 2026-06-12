@@ -21,9 +21,9 @@ The custom decorative silkscreen on the board layout was designed externally and
 ![Sketchpad PCB Layout](assets/pcb.png)
 
 * Layer Configuration (Keymap)
+  
 Layer 1: General / Multimedia
 Focused on navigation and media control for daily OS use.
-
 Button 1: Mute
 Button 2: Previous track
 Button 3: Next track
@@ -31,7 +31,6 @@ Encoder: Global volume control
 
 Layer 2: Fusion 360 & 3D Sketching
 Shortcuts mapped specifically for 3D modeling workflows.
-
 Button 1: 3D Orbit (Shift + F)
 Button 2: Shortcut S (Fusion command search menu)
 Button 3: Shortcut E (Extrude)
@@ -39,9 +38,7 @@ Encoder: Zoom In / Zoom Out (Mouse scroll)
 
 Layer 3: Productivity / Editing
 Quick actions for text and code editing.
-
 Button 1: Ctrl + Z
 Button 2: Ctrl + X
 Button 3: Ctrl + V
-
 Encoder: Line navigation (Arrow Up / Arrow Down)
