@@ -2,7 +2,7 @@
 The Hackpad is a compact macro pad designed to streamline 3D modeling workflows and daily tasks. The project runs on the Seeed Studio XIAO RP2040 microcontroller and utilizes KMK Firmware built on top of CircuitPython.
 
 The main feature of this setup is the rotary encoder logic. Instead of dedicating a physical key to switch layers, clicking the encoder freezes normal inputs and turns the knob into a manual layer selector. The user rotates the encoder to cycle through available layers on the OLED screen and clicks it again to confirm the selection.
-![Sketchpad cad image](cad.png)
+![Sketchpad cad image](assets/cad.png)
 
 ## Key Features
 
@@ -18,7 +18,7 @@ The custom PCB was developed using KiCad. It utilizes direct routing to the XIAO
 The custom decorative silkscreen on the board layout was designed externally and imported directly from a Figma image export.
 
 ![Sketchpad Circuit Schematic](assets/schematic.png)
-![Sketchpad PCB Layout](assets/pcb)
+![Sketchpad PCB Layout](assets/pcb.png)
 
 * Layer Configuration (Keymap)
 Layer 1: General / Multimedia
